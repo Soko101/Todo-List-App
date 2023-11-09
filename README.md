@@ -2,11 +2,11 @@
 Simple todo list application made using HTML/CSS and JavaScript
 The architecture of your Todo List app consists of several components:
 
-1. **HTML (index.html):** This is the user interface of your application. It contains the form for adding new tasks, the display area for the list of tasks, and includes necessary Bootstrap and JavaScript library dependencies.
+1. **HTML (index.html):** This is the user interface of my application. It contains the form for adding new tasks, the display area for the list of tasks, and includes necessary Bootstrap and JavaScript library dependencies.
 
 2. **CSS Styling:** The app includes some custom CSS styling to improve the visual design of the page. It uses Bootstrap for styling and icons.
 
-3. **JavaScript (todo.js):** The core functionality of your Todo List app is implemented in JavaScript. Here's a breakdown of what the JavaScript code does:
+3. **JavaScript (todo.js):** The core functionality of my Todo List app is implemented in JavaScript. Here's a breakdown of what the JavaScript code does:
 
    - **Data Storage:** The app stores and manages the todo items using the `todos` object. It keeps track of todo items and assigns them unique keys.
 
